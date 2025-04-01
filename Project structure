@@ -1,0 +1,15 @@
+ecommerce-store/
+├── client/                  # Frontend code (HTML/CSS/JS)
+│   ├── css/                 # Stylesheets
+│   ├── js/                  # JavaScript files
+│   ├── images/              # Product images
+│   └── index.html           # Main page
+├── server/                  # Backend code
+│   ├── models/              # Database models
+│   ├── routes/              # API routes
+│   ├── app.js               # Main server file
+│   └── package.json         # Backend dependencies
+├── docs/                    # Documentation
+│   └── REPORT.md            # Project report
+├── .gitignore               # Git ignore file
+└── README.md                # Project overview
